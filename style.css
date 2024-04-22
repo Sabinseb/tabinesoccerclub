@@ -1,0 +1,36 @@
+body {
+    background-color: #f4eeeeee;
+    color: #000000;
+    font-family: Arial, sans-serif;
+  }
+  
+  header {
+    background-color: #000000;
+    color: #7c0505;
+    padding: 10px;
+  }
+  
+  nav a {
+    color: #ffffff;
+    text-decoration: none;
+    margin-right: 10px;
+  }
+  
+  #home, #team, #contact {
+    padding: 20px;
+  }
+  
+  #team img {
+    max-width: 100%;
+    height: auto;
+  }
+  
+  footer {
+    background-color: #000000;
+    color: #ffffff;
+    padding: 10px;
+    text-align: center;
+    position: fixed;
+    bottom: 0;
+    width: 100%;
+  }
